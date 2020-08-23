@@ -2,7 +2,7 @@
 
 Kaggle Competition
 
-Dog Breed Classification using CNN-Base Model.ipynb 
+Dog Breed Classification using CNN-Base Model.ipynb (approx. 95% accuracy)
 
 The dataset provides multiple images for 120 dog breeds. I have used the top 16 most frequently occuring breeds to save computational time. 
 
